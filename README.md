@@ -1,2 +1,3 @@
 # bigquery-pub-db
-Read big query public ds in node.js
+
+Following this https://bigquery-public-datasets.cube.dev/how-to-create-an-analytical-api.
